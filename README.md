@@ -1,5 +1,6 @@
 # A02
-# Branch  - 
+```
+Branch  - 
 Clone - 
 Commit - 
 Fetch - 
@@ -10,4 +11,5 @@ Merge Conflict -
 Push - 
 Pull - 
 Remote - 
-Repository - 
+Repository -
+```
