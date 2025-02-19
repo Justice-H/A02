@@ -7,8 +7,9 @@ VS Code Tutorial:
 5. Select new file to create new file
 6. You can begin coding in any of the default language VS Code has pre
    installed which include JavaScript, TypeScript
-7. If you want a different programing language Go to the Marketplace or
-   use the integrated Extensions view and search for your desired programm
+7. If you want a different programing language Go to the Marketplace or use the integrated
+   Extensions view and search for your desired programming language to find snippets,
+   code completion/IntelliSense providers, linters, debuggers, and more.
 
 Glossary:
 **Branch**  - Use a branch to isolate development work without affecting other branches in the repository.
@@ -56,5 +57,6 @@ revision history. Repositories can have multiple collaborators and can be either
 
 Resources:
 https://code.visualstudio.com/docs/getstarted/getting-started
+https://code.visualstudio.com/docs/languages/overview
 https://docs.github.com/en/get-started/learning-about-github/github-glossary 
 
