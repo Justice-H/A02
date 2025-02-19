@@ -1,5 +1,16 @@
 # A02
+VS Code Tutorial:
+1. Download VS Code - https://code.visualstudio.com/download
+2. Open VS Code, you will see a welcome page
+3. Select file, open folder from menu to open a folder
+4. Select new folder to create new folder
+5. Select new file to create new file
+6. You can begin coding in any of the default language VS Code has pre
+   installed which include JavaScript, TypeScript
+7. If you want a different programing language Go to the Marketplace or
+   use the integrated Extensions view and search for your desired programm
 
+Glossary:
 **Branch**  - Use a branch to isolate development work without affecting other branches in the repository.
 Each repository has one default branch, and can have multiple other branches. You can merge a branch
 into another branch using a pull request. Branches allow you to develop features, fix bugs, or safely
@@ -44,5 +55,6 @@ folder. A repository contains all of the project files (including documentation)
 revision history. Repositories can have multiple collaborators and can be either public or private.
 
 Resources:
+https://code.visualstudio.com/docs/getstarted/getting-started
 https://docs.github.com/en/get-started/learning-about-github/github-glossary 
 
