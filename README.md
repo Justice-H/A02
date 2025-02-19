@@ -12,6 +12,7 @@ VS Code Tutorial:
    code completion/IntelliSense providers, linters, debuggers, and more.
 
 Glossary:
+
 **Branch**  - Use a branch to isolate development work without affecting other branches in the repository.
 Each repository has one default branch, and can have multiple other branches. You can merge a branch
 into another branch using a pull request. Branches allow you to develop features, fix bugs, or safely
